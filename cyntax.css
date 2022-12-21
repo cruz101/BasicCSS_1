@@ -1,3 +1,17 @@
 #header{
-    
+    background-color: blue;
+    position: absolute;
+    top:0;
+    left: 0;
+}
+
+#header h1{
+    font-size: 32px;
+}
+
+p{
+    font-size: 12px;
+}
+h3{
+    background-color:aqua;
 }
